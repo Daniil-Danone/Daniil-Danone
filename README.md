@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming (+I know HTML & CSS), but also I want to learn other languages like JavaScript, C++😀
 - 💞️ I would like to make new acquaintances, and also try to create an indie / arcade / quest game 
 - 📫 How to reach me - just send me an e-mail on mrsuperko45@gmail.com (or mr.super.ko@inbox.ru). 
-- I'm also on:
+I'm also on:
 -   •Twitter: @DaniilDanone
 -   •VKontakte: @daniilkolevatykh
 -   •Telegram: @daniil_danone
