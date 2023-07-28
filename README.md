@@ -1,4 +1,4 @@
-👋 Hi, I’m @Daniil-Danone, I'm 16 and I live in Omsk, Russia.  
+👋 Hi, I’m @Daniil-Danone, I'm 17 and I live in Omsk, Russia.  
 🤔 I mainly do Backend (Python, Django, DjangoRestFramework), but lately I'm learning frontend development  
 👀 I’m interested in creating my own applications, bots and web-sites as well.  
 🌱 I’m currently learning Node.js  
