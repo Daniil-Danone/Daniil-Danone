@@ -9,7 +9,7 @@
 - **Python**  
 - **JavaScript**
 - **С++ (beginner)**
-- **Golang (beginner)**
+- **Go (beginner)**
 
 ### 🔹 Backend Frameworks:
 - **Django**, **Django REST Framework**
