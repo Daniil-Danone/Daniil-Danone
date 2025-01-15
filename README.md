@@ -1,5 +1,5 @@
 👋 Hi, I’m @Daniil-Danone.  
-📑 As you can see I'm a backend-developer. My skills: Python with frameworks such as Django, DjangoRestFramework, Flask, FastAPI; PostgreSQL, MySQL, Docker, Ubuntu, GitHub Actions, DokcerHub. And some frontend technologies like JavaScript, React, HTML, CSS.  
+📑 As you can see I'm a backend-developer. My skills: Python with frameworks such as Django, DjangoRestFramework, Flask, FastAPI; aiogram, pyrogram, PostgreSQL, MySQL, Docker, Ubuntu, GitHub Actions, DokcerHub. And some frontend technologies like JavaScript, React, HTML, CSS.  
 👨‍💻 Currently, I am engaged in commercial backend development for web applications and work in one Moscow IT company remotely
 
 <!---
