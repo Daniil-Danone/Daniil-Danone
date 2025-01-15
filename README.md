@@ -8,30 +8,35 @@
 ### 🔹 Programming Languages:
 - **Python**  
 - **JavaScript**
+- **С++ (beginner)**
+- **Golang (beginner)**
 
 ### 🔹 Backend Frameworks:
-- **Django**, **Django REST Framework**  
-- **Flask**, **FastAPI**
+- **Django**, **Django REST Framework**
+- **FastAPI**
+- **Flask**
 
 ### 🔹 Telegram Bot Development:
 - **Aiogram**  
 - **Pyrogram**
+- **Telethon**
 
 ### 🔹 Databases:
-- **PostgreSQL**  
+- **PostgreSQL**
+- **Redis**
 - **MySQL**  
 - **SQLite**
+- **MongoDB**
 
 ### 🔹 DevOps & Infrastructure:
-- **Docker**, **Docker Compose**  
+- **Docker**, **Docker Compose**, **Docker Swarm**
 - **Ubuntu/Linux**  
-- **GitHub Actions**, **DockerHub**  
-- **Nginx**, **Gunicorn**  
+- **GitHub Actions**  
+- **Nginx**
 - **CI/CD**
 
 ### 🔹 Automation Tools:
-- **Celery**  
-- **Redis**  
+- **Celery** 
 - **APScheduler**
 
 ### 🔹 API & Data Handling:
@@ -40,8 +45,8 @@
 - **JSON**, **GeoJSON**
 
 ### 🔹 Frontend Technologies:
-- **React**  
-- **HTML5**, **CSS3**, **Bootstrap**
+- **React**, **Express**
+- **HTML5**, **CSS3**
 
 ## 🏢 What I’m Working on Now:
 - Developing commercial backend solutions for web applications.  
