@@ -6,10 +6,10 @@
 
 ## 🚀 My Core Skills:
 ### 🔹 Programming Languages:
-- **Python**  
+- **Python**
+- **Go**
 - **JavaScript**
 - **С++ (beginner)**
-- **Go (beginner)**
 
 ### 🔹 Backend Frameworks:
 - **Django**, **Django REST Framework**
