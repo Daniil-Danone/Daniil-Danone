@@ -13,6 +13,7 @@
 
 ### 🔹 Backend Frameworks:
 - **Django**, **Django REST Framework**
+- **Gin**
 - **FastAPI**
 - **Flask**
 
@@ -20,6 +21,7 @@
 - **Aiogram**  
 - **Pyrogram**
 - **Telethon**
+- **Telebot.v3**
 
 ### 🔹 Databases:
 - **PostgreSQL**
