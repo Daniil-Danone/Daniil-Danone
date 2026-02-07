@@ -23,12 +23,14 @@
 - **Telethon**
 - **Telebot.v3**
 
-### 🔹 Databases:
+### 🔹 Databases + queues:
 - **PostgreSQL**
 - **Redis**
 - **MySQL**  
 - **SQLite**
 - **MongoDB**
+- **RabbitMQ**
+- **Kafka**
 
 ### 🔹 DevOps & Infrastructure:
 - **Docker**, **Docker Compose**, **Docker Swarm**
