@@ -36,23 +36,20 @@
 
 ### Fullstack developer from Omsk
 
-Aurora sees the spirit realm and the material realm at the same time, and
-that turns out to be a fair description of the job. The API and the screen
-it feeds. The migration and the button that triggers it. I build both halves
-and keep them honest with each other — it is much harder to ship a bad
-contract when you are the one who has to consume it.
+I build web products end to end — the API, the database behind it and the
+interface on top. Working on both sides means fewer surprises in the middle.
 
-My rule is short. **Find the cause, never patch the symptom.** A workaround
-that ships on Friday is a bug that pages you on Sunday.
+When something breaks I look for the actual cause instead of patching around
+it, and I write down the decisions I make so the next person doesn't have to
+guess why the code looks the way it does.
 
-Outside of work I play a lot, play guitar badly on purpose and well by
-accident, and spend more weekends in the cosplay scene than I planned to.
+Outside of work: games, guitar and a lot of cosplay events.
 
 - 📍 &nbsp;**Based** — Omsk, Russia; remote for a Moscow IT company
 - 🧭 &nbsp;**Doing** — web products end to end, Telegram platforms, infrastructure
 - 🪄 &nbsp;**Field kit** — Python · Go · TypeScript · Kotlin
-- 📓 &nbsp;**Habit** — documenting decisions and trade-offs, always
-- 🐇 &nbsp;**In game** — Aurora main, and yes, that is the whole theme here
+- 📓 &nbsp;**Habit** — documenting decisions and trade-offs
+- 🐇 &nbsp;**In game** — Aurora main, hence the theme
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -204,23 +201,22 @@ this blended world is my own... and it's beautiful. ❞</i></sub>
 
 **🧭 &nbsp;Between Worlds**
 
-Commercial web products end to end — the API and the dashboard,
-the migration and the screen it shows up on.
+Commercial web products — APIs, admin panels and the
+interfaces on top of them.
 
 </td>
 <td width="33%" valign="top">
 
 **🌀 &nbsp;The Weirding**
 
-Telegram platforms end to end: bots, Mini Apps and the services
-feeding them.
+Telegram platforms: bots, Mini Apps and the services behind them.
 
 </td>
 <td width="33%" valign="top">
 
 **❄️ &nbsp;Hearth-Home**
 
-Infrastructure that stays boring — Compose stacks, reverse proxies,
+Infrastructure — Docker Compose stacks, reverse proxies,
 metrics and logs.
 
 </td>
@@ -237,22 +233,21 @@ metrics and logs.
 <tr>
 <td width="72%" valign="top">
 
-My girlfriend and I organised **NEDO fest**, an anime and cosplay festival —
-and I built the entire software ecosystem behind it. Not one app: five,
-talking to each other, on the day when nothing is allowed to fall over.
+My girlfriend and I organised **NEDO fest**, an anime and cosplay festival.
+I built all the software for it — five services that had to work together
+on the day of the event.
 
 | Service | Stack | What it does |
 |---|---|---|
 | **Public site** | React · Vite · Tailwind | lineup, programme, ticket sales |
 | **Admin dashboard** | React · TanStack Query · dnd-kit | participants, drag-and-drop schedule |
-| **Jury app** | Kotlin · Android | scoring straight from the judges' table |
+| **Jury app** | Kotlin · Android | scoring from the judges' table |
 | **Scanner app** | Kotlin · Android | QR ticket check-in at the door |
 | **Backend** | FastAPI · PostgreSQL · RabbitMQ | API, Telegram bot, QR generation, e-mail |
 
-Everything ships in Docker behind Nginx, with a Telegram bot doing the
-talking to participants and `aio_pika` moving the slow work off the request
-path — because on festival day, *slow* and *down* look identical to a guest
-holding a phone at the entrance.
+Everything runs in Docker behind Nginx. A Telegram bot handles communication
+with participants, and slow tasks go through RabbitMQ so the API stays
+responsive while people are queueing at the entrance.
 
 </td>
 <td width="28%" valign="top" align="center">
@@ -280,17 +275,15 @@ holding a phone at the entrance.
 </td>
 <td width="72%" valign="top">
 
-Omsk has a surprisingly loud tech scene, and I keep turning up in it.
+Omsk has an active tech scene and I take part in it regularly.
 
-- 🧪 &nbsp;**Hackathons** — many of them, local Omsk circuit. Nothing teaches
-  scoping like 48 hours and a demo you cannot skip.
-- 🔭 &nbsp;**IT laboratories** — longer-format programmes, real problems,
-  actual mentors instead of a leaderboard.
-- 🎤 &nbsp;**Speaker** — took the stage once to share what I'd learned.
-  Aurora would not have enjoyed it. I mostly did.
+- 🧪 &nbsp;**Hackathons** — a lot of them, mostly local. Good practice for
+  scoping a task and actually finishing it in two days.
+- 🔭 &nbsp;**IT laboratories** — longer programmes with real tasks and mentors.
+- 🎤 &nbsp;**Speaker** — gave a talk at one event about what I'd learned.
 
 > ❝ Spending time with others is exhausting. If I seem curt, don't take it
-> personally. ❞ — and yet, here I am, signing up again.
+> personally. ❞
 
 </td>
 </tr>
@@ -304,7 +297,7 @@ Omsk has a surprisingly loud tech scene, and I keep turning up in it.
 <tr>
 <td width="60%" valign="top">
 
-**🎮 &nbsp;Games** — the list is long and the aim is inconsistent.
+**🎮 &nbsp;Games** — what I actually play:
 
 <img src="https://img.shields.io/badge/League%20of%20Legends-10191D?style=for-the-badge&logo=leagueoflegends&logoColor=C8AA6E" />
 <img src="https://img.shields.io/badge/CS-10191D?style=for-the-badge&logo=counterstrike&logoColor=C8AA6E" />
@@ -313,13 +306,11 @@ Omsk has a surprisingly loud tech scene, and I keep turning up in it.
 <img src="https://img.shields.io/badge/Rainbow%20Six-10191D?style=for-the-badge&logo=ubisoft&logoColor=C8AA6E" />
 <img src="https://img.shields.io/badge/Minecraft-10191D?style=for-the-badge&logoColor=C8AA6E" />
 
-**🎸 &nbsp;Guitar** — I play, and every so often I sit down and work out a
-**fingerstyle cover** of something. It is the only debugging I do where the
-stack trace is my own left hand.
+**🎸 &nbsp;Guitar** — I play, and from time to time I work out a
+**fingerstyle cover** of something I like.
 
-**🎭 &nbsp;Cosplay** — deep enough in the community that it stopped being a
-hobby and became a calendar. A couple of costumes are mine, and I have been
-on stage in them.
+**🎭 &nbsp;Cosplay** — I'm part of the local cosplay community. I've made a
+couple of costumes myself and performed on stage in them.
 
 <img src="https://img.shields.io/badge/Fingerstyle-10191D?style=for-the-badge&logoColor=C8AA6E" />
 <img src="https://img.shields.io/badge/Cosplay-10191D?style=for-the-badge&logoColor=C8AA6E" />
@@ -340,17 +331,26 @@ on stage in them.
 
 ## 💞 &nbsp;Duo Queue
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<img width="72%" src="images/aurora-and-xayah.jpg" />
+<img width="100%" src="images/aurora-and-xayah.jpg" />
 
-</div>
+<sub><i>❝ Same hat? Same hat. ❞</i></sub>
 
-Same person I organised NEDO fest with, cosplayed with, and stood on stage
-with — and the one I queue League with. She has her champion, I have mine.
-The arguing is part of the build.
+</td>
+<td width="50%" valign="top">
 
-> ❝ Same hat? Same hat. ❞
+A lot of what's above I do together with my girlfriend:
+
+- 🎪 &nbsp;**NEDO fest** — we organised the festival together
+- 🎭 &nbsp;**Cosplay** — costumes and performances on stage
+- 🎮 &nbsp;**League** — we duo queue; she has her champion, I have mine
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0AC8B9,50:C8AA6E,100:FF7A3D" />
 
@@ -385,8 +385,7 @@ The arguing is part of the build.
 <br/>
 
 <i>Open to new opportunities and interesting projects —<br/>
-web products end to end, Telegram platforms,<br/>
-or anything that has to survive a festival day.</i>
+web products, Telegram platforms and infrastructure.</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:FF7A3D,35:C8AA6E,70:0AC8B9,100:0A1015" />
 
